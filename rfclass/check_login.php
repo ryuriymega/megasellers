@@ -1,15 +1,4 @@
 <?php
-
-/*======================================================================*\
-|| #################################################################### ||
-|| # Register/Login Form by JAKWEB                                    # ||
-|| # ---------------------------------------------------------------- # ||
-|| # Copyright 2012 JAKWEB All Rights Reserved.                       # ||
-|| # This file may not be redistributed in whole or significant part. # ||
-|| #   ---------------- JAKWEB IS NOT FREE SOFTWARE ---------------   # ||
-|| #       http://www.jakweb.ch | http://www.jakweb.ch/license        # ||
-|| #################################################################### ||
-\*======================================================================*/
 define('APP_PATH', dirname(__file__) . DIRECTORY_SEPARATOR);
 
 // Start the session
