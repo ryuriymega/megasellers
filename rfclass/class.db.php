@@ -1,16 +1,5 @@
 <?php
 
-/*======================================================================*\
-|| #################################################################### ||
-|| # Register/Login Form by JAKWEB                                    # ||
-|| # ---------------------------------------------------------------- # ||
-|| # Copyright 2012 JAKWEB All Rights Reserved.                       # ||
-|| # This file may not be redistributed in whole or significant part. # ||
-|| #   ---------------- JAKWEB IS NOT FREE SOFTWARE ---------------   # ||
-|| #       http://www.jakweb.ch | http://www.jakweb.ch/license        # ||
-|| #################################################################### ||
-\*======================================================================*/
-
 /* Create custom exception classes */
 class ConnectException extends Exception {}
 class QueryException extends Exception {}
