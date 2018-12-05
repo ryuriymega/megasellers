@@ -6,11 +6,11 @@ require_once 'class.db.php';
 require_once 'config.php';
 include_once("lib_ebay,php");
 /*
-	 $API_APP_NAME='YuriySvi-2e0f-4139-bdc9-140a51302b4c';
-	 $API_DEV_NAME='6f78a35e-2d48-4049-ab3f-a84376be3267';
-	 $API_CERT_NAME='d85db3a6-ad3d-4b0a-926d-120781d13f89';
+	 $API_APP_NAME='YSSSSSSSSSSSSSSSSS';
+	 $API_DEV_NAME='SSSSSSSSSSSSSSSSSSS';
+	 $API_CERT_NAME='SSSSSSSSSSSSS89';
 	 //$eBayAuthToken=;
-	 $EbayAppRuName="Yuriy_Sviridov-YuriySvi-2e0f-4-qotgqpeg";
+	 $EbayAppRuName="SSSSSSSSSSSSSSSSpeg";
 	 $sandbox='0';
 	 
 
